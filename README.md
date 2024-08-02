@@ -1,4 +1,4 @@
-# redis-ssl-self-signed
+# redis-ssl-example
 
 Setup used to test Redis client-side SSL verification.
 
